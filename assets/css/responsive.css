@@ -1,0 +1,126 @@
+@media (max-width: 991px) {
+	.header {
+		padding-bottom: 0px;
+	}
+	.hero-caption {
+		padding-top: 90px;
+		padding-bottom: 50px;
+	}
+	.footer-widget-single {
+		margin-top: 30px;
+	}
+	.footer-top {
+		padding-top: 30px;
+		padding-bottom: 50px;
+	}
+ 
+}
+@media (max-width: 767px) {
+	.about-area, .client-review-area, .contact-area{
+		padding: 70px 0px;
+	}
+	.about-info h2 {
+		font-size: 20px;
+		line-height: 28px;
+	}
+	.services-area, .resume-area, .portfolio-area, .blog-area{
+		padding-top: 70px;
+		padding-bottom: 40px;
+	}
+ 
+}
+@media (max-width: 676px) {
+	.about-area, .client-review-area, .contact-area{
+		padding: 50px 0px;
+	}
+	.services-area, .resume-area, .portfolio-area, .blog-area{
+		padding-top: 50px;
+		padding-bottom: 20px;
+	}
+	.footer-top {
+		padding-top: 5px;
+		padding-bottom: 30px;
+	}
+	.owl-next {
+    		right: 0 !important;
+    	}
+    	.owl-prev {
+    		left: 0 !important;
+    	}
+ 
+}
+@media (max-width: 576px) {
+	.hero-caption-full h2 {
+		font-size: 26px;
+		margin-bottom: 12px;
+	}
+	.hero-caption, .resume-area, .portfolio-area, .blog-area{
+		padding-top: 50px;
+		padding-bottom: 10px;
+	}
+ 	.about-area, .client-review-area, .contact-area{
+		padding: 40px 0px;
+	}
+	.services-area{
+		padding-top: 50px;
+		padding-bottom: 30px;
+	}
+}
+@media (max-width: 450px) {
+	.hero-caption-full h2 {
+		font-size: 20px;
+		margin-bottom: 10px;
+	}
+	.hero-caption-full p {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.button-1 {
+		font-size: 14px;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.button-2 {
+		font-size: 14px;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.section-headding {
+		margin-bottom: 30px;
+	}
+	 
+}
+@media (max-width: 350px){
+	.hero-caption-btn a.button-2 {
+		margin-left: 0px;
+	}
+	.about-info h2 {
+		font-size: 18px;
+	}
+	.about-social ul li a i {
+		width: 35px;
+		height: 35px;
+	}
+	.about-social ul li {
+		margin: 0px 1px;
+	}
+	.about-info-btn a.button-2 {
+		margin-left: 0px;
+	}
+	.section-headding h2 {
+		font-size: 24px;
+	}
+	.blog-content {
+		padding: 14px;
+	}
+	.blog-content h3 {
+		font-size: 18px;
+	}
+	.blog-content p {
+		line-height: 22px;
+	}
+	.contact-form input {
+		padding: 10px 10px;
+		font-size: 14px;
+	}
+}
